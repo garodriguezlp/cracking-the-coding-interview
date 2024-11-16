@@ -18,7 +18,7 @@
     "neovim@latest",
     "autojump@latest",
     "bat@latest",
-    "exa@latest",
+    "eza@latest",
     "fd@latest",
     "tree@latest"
   ],
